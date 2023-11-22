@@ -1,0 +1,119 @@
+
+.container{
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    margin: 0 auto;
+    font-family: 'Poppins', sans-serif;
+}
+.view_poster{
+    width: 1263px;
+    height: 800px;
+}
+.logo_style{
+    position: absolute;
+    top: 24px;
+    left: 135px;
+    width: 129.028px;
+    height: 38px;
+    flex-shrink: 0;
+}
+.header_menu_home{
+    position: absolute;
+    top: 30px;
+    left: 750px;
+    color: #FFF;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 130%; /* 20.8px */
+    text-decoration: none;
+}
+.header_menu_terms{
+    position: absolute;
+    top: 30px;
+    left: 900px;
+    color: #FFF;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    text-decoration: none;
+}
+.button_header_menu{
+    position: absolute;
+    top: 30px;
+    left: 1050px;
+    width: 145px;
+    height: 25px;
+    flex-shrink: 0;
+    border-radius: 10px;
+    background: #2EACF3;
+    color: #FFF;
+    text-align: center;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-decoration: none;
+}
+.header_main_text{
+    position: absolute;
+    top: 200px;
+    left: 135px;
+    width: 661px;
+    color: #FFF;
+    font-size: 70px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 120%; /* 84px */
+}
+.button_header_menu_2{
+    position: absolute;
+    top: 420px;
+    left: 135px;
+    width: 235px;
+    height: 55px;
+    flex-shrink: 0;
+    border-radius: 5px 27.5px;
+    background: #2EACF3;
+    color: #FFF;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-decoration: none;
+    text-align: center;
+    padding-top: 10px;
+}
+.logo_check_style{
+    position: absolute;
+    top: 530px;
+    left: 135px;
+    width: 20px;
+    height: 20px;
+    flex-shrink: 0;
+}
+.text_near_check{
+    position: absolute;
+    top: 530px;
+    left: 165px;
+    width: 388px;
+    height: 37px;
+    flex-shrink: 0;
+    color: #FFF;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 130%; /* 18.2px */
+}
+.text_near_check_term{
+    position: absolute;
+    top: 548px;
+    left: 370px;
+    color: #2EACF3;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 130%;
+}
